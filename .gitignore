@@ -1,0 +1,4 @@
+#file + folder not to touch
+node_modules
+/log
+.env
